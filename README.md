@@ -24,7 +24,7 @@ Here’s an example of the JSON response from the API:
       "name": { "title": "Ms", "first": "Anna", "last": "Smith" },
       "location": { "street": { "number": 123, "name": "Main St" }, "city": "Springfield", "state": "Illinois", "country": "USA" },
       "email": "anna.smith@example.com",
-      "picture": { "large": "https://randomuser.me/api/portraits/women/1.jpg" }
+      "picture": { "large": "https://randomuser.me/api/portraits/picture" }
     }
   ]
 }
